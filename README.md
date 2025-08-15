@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+
+I am Heng Yi, currently study Bachelor Degree in Department of Photonics at National Yang Ming Chiao Tung University, Taiwan.
 
 <!--
 **Heng2201/Heng2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
